@@ -33,7 +33,7 @@ O World Explorer é um aplicativo abrangente projetado para simplificar e aprimo
 
 # Tecnologias Usadas
 
-até agora nada
+Figma
 
 # Contribuição
 
